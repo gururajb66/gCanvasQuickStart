@@ -25,7 +25,7 @@ POSSIBILITY OF SUCH DAMAGE.
 --%>
 <%@taglib  uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <p>
-Force.com Canvas delivers user context information directly to your application, complete
+FForce.com Canvas delivers user context information directly to your application, complete
 with a scoped authentication token to allow your application to communicate with Salesforce.com.
 </p>
 <p>
