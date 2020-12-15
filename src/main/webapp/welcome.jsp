@@ -41,7 +41,7 @@ POSSIBILITY OF SUCH DAMAGE.
           <div id="canvas-content">
               <h2>
                   <br/>
-                  Your Heroku Java application is up and running.
+                  Your Heroku Java application is up and runningg....
                   To see Force.com Canvas Framework specific functionality, please use this app in a Force.com Canvas
                   enabled organization.
                   <p/>If you are seeing this page inside of an app within Salesforce,
